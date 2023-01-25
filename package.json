@@ -1,0 +1,13 @@
+{
+  "id": "elk",
+  "name": "Elk",
+  "version": "0.6.2",
+  "description": "Elk (alpha) Mastodon Client",
+  "main": "index.js",
+  "author": "Jalil David Salamé Messina <jalil.salame@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/elk-zone/elk",
+  "config": {
+    "serviceURL": "https://elk.zone/"
+  }
+}
